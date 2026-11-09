@@ -4,7 +4,7 @@ Building a Debian Linux desktop environment on an Android smartphone using Termu
 
 Christopher Okong'o Wesala
 
-- GitHub: "@Wesala-crypto" (https://github.com/Wesala-crypto)
+- GitHub: [@Wesala-crypto] (https://github.com/Wesala-crypto)
 - Project: Pocket Linux Desktop
 
 Built as a personal learning project exploring Linux, Android, system configuration and software development.
